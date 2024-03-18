@@ -10,5 +10,14 @@ After using Leadsheet:
 
 ![image](https://github.com/Tejasvshetty/Useful-VBAs/assets/78327281/26a3c45e-4a50-41c6-a80d-fa02a80672a8)
 
+Before Grouping:
+
+![image](https://github.com/Tejasvshetty/Useful-VBAs/assets/78327281/384be57c-4fc9-41ed-985c-96ff0fa03951)
+
+After Grouping:
+
+![image](https://github.com/Tejasvshetty/Useful-VBAs/assets/78327281/fad5db81-8801-415b-ba62-a6da6487ee7a)
+
+
 
 
